@@ -11,6 +11,7 @@ inputs:
     required: true
   cid:
     description: "New value to add to TXT record"
+    required: true
 outputs:
   result:
     description: "Result"
