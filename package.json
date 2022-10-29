@@ -5,6 +5,10 @@
   "license": "MIT",
   "author": "undyingwraith",
   "dependencies": {
-    "@actions/core": "^1.3.0"
-  }
+    "@actions/core": "^1.10.0"
+  },
+  "scripts": {
+    "upgrade": "yarn upgrade-interactive"
+  },
+  "packageManager": "yarn@3.2.4"
 }
